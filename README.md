@@ -17,16 +17,13 @@ This repository contains all coursework materials for **DATA 56000: Neural Netwo
 data56000-nn-and-deep-learning/
 │
 ├── assignments/
-│   ├── assignment-1/          # Backpropagation NN — Image Pixel Classification
+│   ├── assignment-n/
 │   │   ├── notebook.ipynb
-│   │   ├── report.docx
 │   │   └── report.pdf
 │   └── ...
 │
 └── README.md
 ```
-
-> Structure will expand as the course progresses.
 
 ---
 
@@ -35,6 +32,7 @@ data56000-nn-and-deep-learning/
 | # | Title | Topics | Status |
 |---|-------|--------|--------|
 | 1 | Backpropagation Neural Network for Image Pixel Classification | MLP, scikit-learn, pixel classification, generalization | ✅ Complete |
+| 2 | Radial Basis Function Neural Network for Image Pixel Classification | RBFNN, Hybrid Learning, scikit-learn, pixel classification, generalization | ✅ Complete |
 
 ---
 
