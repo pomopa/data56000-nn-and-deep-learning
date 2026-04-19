@@ -34,6 +34,7 @@ data56000-nn-and-deep-learning/
 | 1 | Backpropagation Neural Network for Image Pixel Classification | MLP, scikit-learn, pixel classification, generalization | ✅ Complete |
 | 2 | Radial Basis Function Neural Network for Image Pixel Classification | RBFNN, Hybrid Learning, scikit-learn, pixel classification, generalization | ✅ Complete |
 | 3 | LSTM Neural Network for Stock Price Prediction | LSTM, RNN, scikit-learn, Dropout Regularization, stock data | ✅ Complete |
+| 4 | Restricted Boltzmann Machine for MNIST Feature Learning | RBM, Logistic Regression, Tensorflow, scikit-learn, MNIST dataset | ✅ Complete |
 
 ---
 
