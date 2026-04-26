@@ -35,6 +35,10 @@ data56000-nn-and-deep-learning/
 | 2 | Radial Basis Function Neural Network for Image Pixel Classification | RBFNN, Hybrid Learning, scikit-learn, pixel classification, generalization | ✅ Complete |
 | 3 | LSTM Neural Network for Stock Price Prediction | LSTM, RNN, scikit-learn, Dropout Regularization, stock data | ✅ Complete |
 | 4 | Restricted Boltzmann Machine for MNIST Feature Learning | RBM, Logistic Regression, Tensorflow, scikit-learn, MNIST dataset | ✅ Complete |
+| 5 | Deep NN and Convolutional for Image Classification | CNN, DNN, Binary Classfication, Tensorflow, scikit-learn, CIFAR-10 dataset | ✅ Complete |
+| 6 | -- | -- | ⏳ In progress |
+| 7 | -- | -- | ⏳ In progress |
+| 8 | -- | -- | ⏳ In progress |
 
 ---
 
