@@ -36,13 +36,27 @@ data56000-nn-and-deep-learning/
 | 3 | LSTM Neural Network for Stock Price Prediction | LSTM, RNN, scikit-learn, Dropout Regularization, stock data | ✅ Complete |
 | 4 | Restricted Boltzmann Machine for MNIST Feature Learning | RBM, Logistic Regression, Tensorflow, scikit-learn, MNIST dataset | ✅ Complete |
 | 5 | Deep NN and Convolutional for Image Classification | CNN, DNN, Binary Classfication, Tensorflow, scikit-learn, CIFAR-10 dataset | ✅ Complete |
-| 6 | -- | -- | ⏳ In progress |
+| 6 | TomoGAN for Scientific Image Denoising | GAN, TomoGAN, image denoising, scientific imaging, TensorFlow, HDF5, PSNR, SSIM | ✅ Complete |
 | 7 | -- | -- | ⏳ In progress |
 | 8 | -- | -- | ⏳ In progress |
 
 ---
 
 ## 🛠️ Technologies & Libraries
+Across the assignments completed, this repository mainly uses the following tools and libraries:
+
+- **Python** — primary programming language used in all assignments
+- **Jupyter Notebook** — interactive environment for experimentation, visualization, and reporting
+- **NumPy** — numerical computing and array manipulation
+- **Pandas** — tabular data handling and preprocessing
+- **Matplotlib** — plotting and visual analysis
+- **Seaborn** — statistical visualization for model comparison and confusion matrices
+- **scikit-learn** — classical ML utilities including preprocessing, clustering, train/test splitting, metrics, logistic regression, and MLP-based models
+- **TensorFlow / Keras** — deep learning models including LSTM, RBM-related workflows, CNNs, DNNs, and TomoGAN inference
+- **scikit-image** — image loading, resizing, and image-quality metrics such as PSNR and SSIM
+- **h5py** — handling HDF5 scientific image datasets
+- **yfinance** — stock market data acquisition for time-series forecasting
+- **urllib / pathlib / os / shutil / time** — dataset download, file handling, and runtime measurement utilities
 
 ---
 
