@@ -37,7 +37,7 @@ data56000-nn-and-deep-learning/
 | 4 | Restricted Boltzmann Machine for MNIST Feature Learning | RBM, Logistic Regression, Tensorflow, scikit-learn, MNIST dataset | ✅ Complete |
 | 5 | Deep NN and Convolutional for Image Classification | CNN, DNN, Binary Classfication, Tensorflow, scikit-learn, CIFAR-10 dataset | ✅ Complete |
 | 6 | TomoGAN for Scientific Image Denoising | GAN, TomoGAN, image denoising, scientific imaging, TensorFlow, HDF5, PSNR, SSIM | ✅ Complete |
-| 7 | -- | -- | ⏳ In progress |
+| 7 | CNN-Based Digital Image Segmentation | CNN, Matplotlib Images, synthetic data augmentation, Pytorch | ✅ Complete |
 | 8 | -- | -- | ⏳ In progress |
 
 ---
@@ -57,6 +57,7 @@ Across the assignments completed, this repository mainly uses the following tool
 - **h5py** — handling HDF5 scientific image datasets
 - **yfinance** — stock market data acquisition for time-series forecasting
 - **urllib / pathlib / os / shutil / time** — dataset download, file handling, and runtime measurement utilities
+- **Pytorch** - deep learning library used for the CNN model training
 
 ---
 
