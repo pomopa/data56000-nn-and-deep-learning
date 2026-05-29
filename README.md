@@ -38,7 +38,6 @@ data56000-nn-and-deep-learning/
 | 5 | Deep NN and Convolutional for Image Classification | CNN, DNN, Binary Classfication, Tensorflow, scikit-learn, CIFAR-10 dataset | ✅ Complete |
 | 6 | TomoGAN for Scientific Image Denoising | GAN, TomoGAN, image denoising, scientific imaging, TensorFlow, HDF5, PSNR, SSIM | ✅ Complete |
 | 7 | CNN-Based Digital Image Segmentation | CNN, Matplotlib Images, synthetic data augmentation, Pytorch | ✅ Complete |
-| 8 | -- | -- | ⏳ In progress |
 
 ---
 
